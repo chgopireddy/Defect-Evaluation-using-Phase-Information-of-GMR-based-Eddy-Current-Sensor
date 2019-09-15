@@ -5,4 +5,4 @@ function y3 = R( x )
 Red = 5;
 y3 = Red + Rpa( x );
 end
-
+ 
