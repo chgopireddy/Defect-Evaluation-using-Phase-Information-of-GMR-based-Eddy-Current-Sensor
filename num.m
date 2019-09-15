@@ -14,4 +14,4 @@ M = k1*sqrt(Led*Lex);
 Rex = 5;
 y5 = (R( x )*Rex)-(omega*omega*L( x )*Lex)+(omega*omega*M*M);
 end
-
+ 
