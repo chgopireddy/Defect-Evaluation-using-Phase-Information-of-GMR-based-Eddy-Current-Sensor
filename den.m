@@ -8,4 +8,4 @@ Rex = 5;
 omega = 2*pi*100*(10^3);
 y6 = omega*((R( x )*Lex)+(Rex*L( x )));
 end
-
+ 
