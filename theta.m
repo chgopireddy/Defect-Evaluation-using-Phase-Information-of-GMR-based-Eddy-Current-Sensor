@@ -3,4 +3,4 @@ function y7 = theta( x )
 % x = distance of GMR sensor from the width of defect on test piece
 y7 = atan( num( x )./den( x ) );
 end
-
+ 
